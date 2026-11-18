@@ -23,7 +23,7 @@ I like boring releases: small changes, automated checks, and a rollback that's o
 
 ## Find me
 
-- Portfolio: [gkakkineni-devops.github.io](https://gkakkineni-devops.github.io/)
+- Portfolio: [gkakkineni.dev](https://gkakkineni.dev/)
 - LinkedIn: [gopala-krishna-devops](https://www.linkedin.com/in/gopala-krishna-devops)
 - Email: gopalakrishnaakkineni.dev@gmail.com
 
