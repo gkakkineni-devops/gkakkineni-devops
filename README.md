@@ -25,6 +25,6 @@ I like boring releases: small changes, automated checks, and a rollback that's o
 
 - Portfolio: [gkakkineni.dev](https://gkakkineni.dev/)
 - LinkedIn: [gopala-krishna-devops](https://www.linkedin.com/in/gopala-krishna-devops)
-- Email: gopalakrishnaakkineni.dev@gmail.com
+- Email: gkakkineni.dev@gmail.com
 
 I'm looking for DevOps, SRE and platform engineering roles.
